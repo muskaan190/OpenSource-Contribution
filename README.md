@@ -100,4 +100,4 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers , also with who are participating in hacktoberfest .
 
-<h3>Join Our <a href="https://discord.gg/7GeZKE6" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/aEaYpYG" height="30" width="30" /> Discord</a> </h3>
+<h3>Join Our <a href="https://discord.gg/aEaYpYG" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NerdGang" height="30" width="30" /> Discord</a> </h3>
